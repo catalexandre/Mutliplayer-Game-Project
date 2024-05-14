@@ -10,6 +10,6 @@ The idea then came to me that I could combine this algorithm with others to make
 
 The first thing I did was write the entire server as a client-server architecture, but quickly realized that if I wanted ease of use for anyone playing my game, a peer-to-peer architecture was more suitable considering the type of game I would be making.
 
-I then implemented the OWFC to generate the inside of rooms that I generate with the help of the binary space partitioning algorithm which I use to generate rooms that I link together via the dogleg algorithm. This 
+I then implemented the OWFC to generate the inside of rooms that I generate with the help of the binary space partitioning algorithm which I use to generate rooms that I link together via the dogleg algorithm.
 
 ### To be continued...
