@@ -8,8 +8,8 @@ Both of these works are properties of The Coding Train and Maxim Gumin respectiv
 
 The idea then came to me that I could combine this algorithm with others to make for interesting map generation, and this is where the idea for this game came from. At that point I had a vague idea of what I wanted the game to be and I knew I wanted it to be a mix between the survival and roguelike genres where you play against your friends. I did however know that I wanted to implement different algorithms and programming concepts that I find interesting because I knew that it would make it interesting for me working alone on this project and I wanted to display my programming skills.
 
-The first thing I did was write the entire server as a client-server architecture, but quickly realized that if I wanted ease of use for anyone playing my game, a peer-to-peer architecture was more suitable considering the type of game I would be making.
+The first thing I did was write the entire server as a client-server architecture, but quickly realized that if I wanted ease of use for anyone playing my game, a peer-to-peer architecture was more suitable considering the type of game I would be making. The benefits of a peer-to-peer architecture which I wanted for my game was ease of use, and not needing to host a server myself, as whoever was playing could decide to be the host of a game with their friends.
 
-I then implemented the OWFC to generate the inside of rooms that I generate with the help of the binary space partitioning algorithm which I use to generate rooms that I link together via the dogleg algorithm.
+The next step was to write the OWFC algorithm, as it was of course what started this project after all... 
 
 ### To be continued...
